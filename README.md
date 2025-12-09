@@ -5,6 +5,9 @@ Users can generate strong, secure, and random passwords with multiple configurat
 
 ---
 
+![App Screenshot](/src/assets/banner.png)
+
+---
 ## 🚀 Features
 
 - Generate fully random & secure passwords  
@@ -27,6 +30,6 @@ Users can generate strong, secure, and random passwords with multiple configurat
 
 ---
 
-![App Screenshot](/src/assets/banner.png)
+
 
 
