@@ -1,13 +1,14 @@
 # 🔐 Password Generator
 
+![App Screenshot](/src/assets/banner.png)
+
+---
+
 A simple and customizable **Password Generator Web App** built using React.js.  
 Users can generate strong, secure, and random passwords with multiple configuration options like length, symbols, numbers, uppercase letters, etc.
 
 ---
 
-![App Screenshot](/src/assets/banner.png)
-
----
 ## 🚀 Features
 
 - Generate fully random & secure passwords  
